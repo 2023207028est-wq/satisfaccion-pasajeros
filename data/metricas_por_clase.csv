@@ -1,0 +1,4 @@
+categoria,precision,recall,f1,cantidad
+Insatisfecho,0.9192,0.9522,0.9354,7907
+Neutral,0.8964,0.8865,0.8914,6783
+Satisfecho,0.9621,0.9443,0.9531,11286

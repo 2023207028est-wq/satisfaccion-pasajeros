@@ -1,0 +1,2 @@
+total_registros,total_columnas_originales,variables_predictoras,valores_nulos_originales,registros_duplicados,categorias_objetivo,modelo_seleccionado
+129880,24,22,393,0,3,Random Forest

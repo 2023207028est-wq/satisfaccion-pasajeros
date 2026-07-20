@@ -1,0 +1,28 @@
+variable,categoria,nivel_satisfaccion,cantidad
+Gender,Female,Insatisfecho,20257
+Gender,Female,Neutral,17373
+Gender,Female,Satisfecho,28269
+Gender,Male,Insatisfecho,19278
+Gender,Male,Neutral,16544
+Gender,Male,Satisfecho,28159
+Customer Type,Loyal Customer,Insatisfecho,29689
+Customer Type,Loyal Customer,Neutral,25683
+Customer Type,Loyal Customer,Satisfecho,50728
+Customer Type,disloyal Customer,Insatisfecho,9846
+Customer Type,disloyal Customer,Neutral,8234
+Customer Type,disloyal Customer,Satisfecho,5700
+Type of Travel,Business travel,Insatisfecho,23685
+Type of Travel,Business travel,Neutral,13652
+Type of Travel,Business travel,Satisfecho,52356
+Type of Travel,Personal Travel,Insatisfecho,15850
+Type of Travel,Personal Travel,Neutral,20265
+Type of Travel,Personal Travel,Satisfecho,4072
+Class,Business,Insatisfecho,11439
+Class,Business,Neutral,7555
+Class,Business,Satisfecho,43166
+Class,Eco,Insatisfecho,24283
+Class,Eco,Neutral,23083
+Class,Eco,Satisfecho,10943
+Class,Eco Plus,Insatisfecho,3813
+Class,Eco Plus,Neutral,3279
+Class,Eco Plus,Satisfecho,2319

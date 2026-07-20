@@ -1,0 +1,28 @@
+modelo,real,predicho,cantidad
+Regresión Logística,Insatisfecho,Insatisfecho,5187
+Regresión Logística,Insatisfecho,Neutral,1518
+Regresión Logística,Insatisfecho,Satisfecho,1202
+Regresión Logística,Neutral,Insatisfecho,1201
+Regresión Logística,Neutral,Neutral,3951
+Regresión Logística,Neutral,Satisfecho,1631
+Regresión Logística,Satisfecho,Insatisfecho,772
+Regresión Logística,Satisfecho,Neutral,835
+Regresión Logística,Satisfecho,Satisfecho,9679
+Árbol de Decisión,Insatisfecho,Insatisfecho,6989
+Árbol de Decisión,Insatisfecho,Neutral,662
+Árbol de Decisión,Insatisfecho,Satisfecho,256
+Árbol de Decisión,Neutral,Insatisfecho,696
+Árbol de Decisión,Neutral,Neutral,5501
+Árbol de Decisión,Neutral,Satisfecho,586
+Árbol de Decisión,Satisfecho,Insatisfecho,231
+Árbol de Decisión,Satisfecho,Neutral,471
+Árbol de Decisión,Satisfecho,Satisfecho,10584
+Random Forest,Insatisfecho,Insatisfecho,7529
+Random Forest,Insatisfecho,Neutral,311
+Random Forest,Insatisfecho,Satisfecho,67
+Random Forest,Neutral,Insatisfecho,417
+Random Forest,Neutral,Neutral,6013
+Random Forest,Neutral,Satisfecho,353
+Random Forest,Satisfecho,Insatisfecho,245
+Random Forest,Satisfecho,Neutral,384
+Random Forest,Satisfecho,Satisfecho,10657

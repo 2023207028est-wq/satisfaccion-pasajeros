@@ -1,0 +1,43 @@
+nivel_satisfaccion,servicio,promedio
+Insatisfecho,Inflight wifi service,2.09
+Neutral,Inflight wifi service,2.76
+Satisfecho,Inflight wifi service,3.16
+Insatisfecho,Departure/Arrival time convenient,2.71
+Neutral,Departure/Arrival time convenient,3.62
+Satisfecho,Departure/Arrival time convenient,2.96
+Insatisfecho,Ease of Online booking,2.29
+Neutral,Ease of Online booking,2.85
+Satisfecho,Ease of Online booking,3.03
+Insatisfecho,Gate location,2.8
+Neutral,Gate location,3.19
+Satisfecho,Gate location,2.97
+Insatisfecho,Food and drink,2.35
+Neutral,Food and drink,3.67
+Satisfecho,Food and drink,3.53
+Insatisfecho,Online boarding,2.37
+Neutral,Online boarding,2.99
+Satisfecho,Online boarding,4.03
+Insatisfecho,Seat comfort,2.47
+Neutral,Seat comfort,3.7
+Satisfecho,Seat comfort,3.97
+Insatisfecho,Inflight entertainment,2.16
+Neutral,Inflight entertainment,3.75
+Satisfecho,Inflight entertainment,3.96
+Insatisfecho,On-board service,2.59
+Neutral,On-board service,3.52
+Satisfecho,On-board service,3.86
+Insatisfecho,Leg room service,2.71
+Neutral,Leg room service,3.32
+Satisfecho,Leg room service,3.82
+Insatisfecho,Baggage handling,2.98
+Neutral,Baggage handling,3.84
+Satisfecho,Baggage handling,3.97
+Insatisfecho,Checkin service,2.7
+Neutral,Checkin service,3.44
+Satisfecho,Checkin service,3.65
+Insatisfecho,Inflight service,2.98
+Neutral,Inflight service,3.87
+Satisfecho,Inflight service,3.97
+Insatisfecho,Cleanliness,2.28
+Neutral,Cleanliness,3.69
+Satisfecho,Cleanliness,3.75

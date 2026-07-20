@@ -1,0 +1,25 @@
+﻿variable_original,nombre_espanol,tipo,descripcion,valores_escala
+id,Identificador,Identificador,Código único asignado a cada pasajero.,Número entero
+satisfaction_v2,Satisfacción original,Categórica,Clasificación original de satisfacción del pasajero.,satisfied / neutral or dissatisfied
+Gender,Género,Categórica,Género registrado del pasajero.,Female / Male
+Customer Type,Tipo de cliente,Categórica,Indica si el pasajero es un cliente leal o no leal.,Loyal Customer / disloyal Customer
+Age,Edad,Numérica,Edad del pasajero.,Años
+Type of Travel,Tipo de viaje,Categórica,Motivo general del viaje realizado.,Business travel / Personal Travel
+Class,Clase del vuelo,Categórica,Categoría del asiento adquirida por el pasajero.,Business / Eco / Eco Plus
+Flight Distance,Distancia del vuelo,Numérica,Distancia registrada para el vuelo.,Unidad indicada por la fuente
+Inflight wifi service,WiFi durante el vuelo,Valoración,Calificación del servicio de conexión WiFi a bordo.,0 no evaluado; 1 a 5
+Departure/Arrival time convenient,Conveniencia del horario,Valoración,Calificación de la conveniencia del horario de salida y llegada.,0 no evaluado; 1 a 5
+Ease of Online booking,Facilidad de reserva en línea,Valoración,Facilidad percibida para realizar la reserva por Internet.,0 no evaluado; 1 a 5
+Gate location,Ubicación de la puerta,Valoración,Calificación de la ubicación de la puerta de embarque.,0 no evaluado; 1 a 5
+Food and drink,Comida y bebida,Valoración,Calificación de los alimentos y bebidas ofrecidos.,0 no evaluado; 1 a 5
+Online boarding,Embarque en línea,Valoración,Calificación de la experiencia digital asociada al embarque.,0 no evaluado; 1 a 5
+Seat comfort,Comodidad del asiento,Valoración,Calificación de la comodidad del asiento.,0 no evaluado; 1 a 5
+Inflight entertainment,Entretenimiento a bordo,Valoración,Calificación del entretenimiento disponible durante el vuelo.,0 no evaluado; 1 a 5
+On-board service,Servicio a bordo,Valoración,Calificación general de los servicios prestados dentro del avión.,0 no evaluado; 1 a 5
+Leg room service,Espacio para las piernas,Valoración,Calificación del espacio disponible para las piernas.,0 no evaluado; 1 a 5
+Baggage handling,Manejo del equipaje,Valoración,Calificación del proceso de manipulación y entrega del equipaje.,0 no evaluado; 1 a 5
+Checkin service,Servicio de registro (check-in),Valoración,Calificación del proceso de registro previo al vuelo.,0 no evaluado; 1 a 5
+Inflight service,Atención durante el vuelo,Valoración,Calificación de la atención recibida durante el trayecto.,0 no evaluado; 1 a 5
+Cleanliness,Limpieza,Valoración,Calificación de la limpieza del avión.,0 no evaluado; 1 a 5
+Departure Delay in Minutes,Retraso de salida,Numérica,Cantidad de minutos de retraso en la salida.,Minutos
+Arrival Delay in Minutes,Retraso de llegada,Numérica,Cantidad de minutos de retraso en la llegada.,Minutos

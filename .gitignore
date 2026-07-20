@@ -1,0 +1,17 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Archivos temporales
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Configuración local
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Comprimido innecesario
+models.zip

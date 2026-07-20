@@ -1,0 +1,13 @@
+variable,nivel_satisfaccion,promedio,mediana,minimo,maximo
+Age,Insatisfecho,37.9,37.0,7.0,85.0
+Age,Neutral,37.36,36.0,7.0,85.0
+Age,Satisfecho,41.74,43.0,7.0,85.0
+Flight Distance,Insatisfecho,988.69,693.0,31.0,4983.0
+Flight Distance,Neutral,860.97,645.0,31.0,4983.0
+Flight Distance,Satisfecho,1529.54,1249.0,31.0,4983.0
+Departure Delay in Minutes,Insatisfecho,17.1,0.0,0.0,1592.0
+Departure Delay in Minutes,Neutral,15.6,0.0,0.0,930.0
+Departure Delay in Minutes,Satisfecho,12.51,0.0,0.0,1305.0
+Arrival Delay in Minutes,Insatisfecho,17.82,0.0,0.0,1584.0
+Arrival Delay in Minutes,Neutral,16.16,0.0,0.0,952.0
+Arrival Delay in Minutes,Satisfecho,12.53,0.0,0.0,1280.0
